@@ -1,0 +1,63 @@
+﻿#login {
+    background-color: black;
+}
+
+#contentpageTwo {
+    background-color: white;
+}
+
+#header {
+    margin: 90;
+    font-size: 45;
+    font-weight: 900;
+    color: white;
+}
+
+#entry {
+    background-color: slategray;
+    border-radius: initial 10;
+    color: black;
+}
+
+#entrytwo {
+    background-color: white;
+    border-radius: initial 10;
+    color: black;
+}
+
+#button {
+    margin-top: 30;
+    background-color: red;
+    color: white;
+}
+
+#else {
+    color: black;
+}
+
+#label {
+    color: white;
+    font-size: 18;
+}
+
+#labeltwo {
+    color: black;
+    font-size: 18;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+#labelthree {
+    color: black;
+    font-size: 18;
+    font-weight: bold;
+}
+
+#labelfour {
+    color: black;
+    font-size: 18;
+}
+
+.LabelTextColor {
+    color: black;
+}
